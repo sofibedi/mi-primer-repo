@@ -1,0 +1,124 @@
+* {
+    /* R E S E T */
+    padding: 0;
+    margin: 0;
+    font-family: 'Ysabeau Office', sans-serif;
+    font-size: 20px;
+  }
+  
+  .bg-pag {
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+  
+  /* H E A D E R */
+  .menu-nav {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+  }
+  
+  /* M A I N */
+  .totalcontainer {
+    padding-bottom: 100px;
+    background-color: black;
+  }
+  
+  .carouseltotal {
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+    margin-top: 81px;
+  }
+  
+  .carousel-inner {
+    height: 500px;
+  }
+  
+  .carousel-caption-container {
+    position: absolute;
+    top: 170px;
+    left: 0px;
+    width: 100%;
+    max-width: 1200px;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    color: #fff;
+  }
+  
+  .card {
+    color: #000047;
+    background-color: #413f3f;
+  }
+  
+  .card-total {
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+  
+    .btn {
+      background-color: black;
+    }
+  }
+  
+  /* F O O T E R */
+  footer {
+    margin-top: auto;
+  }
+  
+  .piedepagina {
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  /* T U R N O S */
+  .turnos-title {
+    color: white;
+    position: relative;
+    top: 176px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+    .container .card {
+      color: #000047;
+      background-color: #413f3f;
+  
+      .btn {
+        background-color: black;
+      }
+    }
+  }
+  
+  /* T I E N D A O N L I N E */
+  .tienda-title {
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .tienda-subtitle {
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+    .card .card-body {
+      color: #000047;
+      background-color: #413f3f;
+    }
+  }
+  
+  /* R E D E S */
+  .card-group {
+    width: 100%;
+    justify-content: space-between;
+  }
+  
