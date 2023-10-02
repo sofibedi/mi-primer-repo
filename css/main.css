@@ -1,0 +1,132 @@
+* {
+  /* R E S E T */
+  padding: 0;
+  margin: 0;
+  font-family: "Ysabeau Office", sans-serif;
+  font-size: 20px;
+}
+
+.bg-pag {
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.menu-nav {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1;
+}
+
+/* M A I N */
+.totalcontainer {
+  padding-bottom: 100px;
+  background-color: black;
+}
+.totalcontainer .carouseltotal {
+  width: 100%;
+  max-width: 1200px;
+  margin: auto;
+  margin-top: 81px;
+}
+.totalcontainer .carouseltotal .carousel-inner {
+  height: 500px;
+}
+.totalcontainer .carouseltotal .carousel-caption-container {
+  position: absolute;
+  top: 170px;
+  left: 0px;
+  width: 100%;
+  max-width: 1200px;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 20px;
+  color: #fff;
+}
+.totalcontainer .card {
+  color: #000047;
+  background-color: #413f3f;
+}
+.totalcontainer .card-total {
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+.totalcontainer .card-total .btn {
+  background-color: black;
+}
+
+/* F O O T E R */
+footer {
+  margin-top: auto;
+}
+footer .piedepagina {
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* T U R N O S */
+.turnos-title {
+  color: white;
+  position: relative;
+  top: 176px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container .card {
+  color: #000047;
+  background-color: #413f3f;
+}
+.container .card .btn {
+  background-color: black;
+}
+
+/* T I E N D A O N L I N E */
+.tienda-title {
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.tienda-title .tienda-subtitle {
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.tienda-title .tienda-subtitle .card-body {
+  color: #000047;
+  background-color: #413f3f;
+}
+
+/* T U R N O S */
+.turnos-title {
+  color: white;
+  position: relative;
+  top: 176px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container .card {
+  color: #000047;
+  background-color: #413f3f;
+}
+.container .card .btn {
+  background-color: black;
+}
+
+/* R E D E S */
+.card-group {
+  width: 100%;
+  justify-content: space-between;
+}
+
+/*# sourceMappingURL=main.css.map */

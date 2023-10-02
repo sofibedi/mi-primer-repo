@@ -1,0 +1,21 @@
+// p e s t a ñ a r e d e s
+
+/* T I E N D A O N L I N E */
+.tienda-title {
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    .tienda-subtitle {
+        color: white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        .card-body {
+            color: #000047;
+            background-color: #413f3f;
+        }
+    }
+}

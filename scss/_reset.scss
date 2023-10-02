@@ -1,0 +1,14 @@
+// r e s e t
+* {
+    /* R E S E T */
+    padding: 0;
+    margin: 0;
+    font-family: 'Ysabeau Office', sans-serif;
+    font-size: 20px;
+}
+
+.bg-pag {
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;}
