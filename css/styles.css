@@ -121,3 +121,7 @@ footer{
     width: 100%;
     justify-content: space-between;
 }
+.card .card-body {
+    color: #000047;
+    background-color: #7e7979;
+}
